@@ -1,2 +1,2 @@
 # flutter-crud-flutter-app
-Um código básico para ajudar iniciantes no Flutter.
+Um código básico para ajudar iniciantes no Flutter...
